@@ -1,0 +1,1 @@
+Constructed Neural Network to generate plausible human faces using Generative Adversarial Network.	Enhanced Generative CNN training with Adam Optimizer; trained discriminator using stochastic gradient descent. Attained high level expertise in successfully creating realistic facial images using advanced Deep Learning techniques.
